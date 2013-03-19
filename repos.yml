@@ -1,0 +1,6 @@
+---
+repository: 
+  - name: apache-activemq
+    svn_url: "https://svn.apache.org/repos/asf/excalibur/" 
+    git_url: "git@github.com:<USERNAME>/<DEST_REPO>.git"
+    #s2gopts: "--rootistrunk" #optional if repo has no trunk, tags, or branches
